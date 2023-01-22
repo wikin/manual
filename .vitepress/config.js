@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 import { SearchPlugin } from "vitepress-plugin-search";
 
 export default defineConfig({
-  base: '/manual/'
+  base: '/manual/',
   title: 'IdeaPoint',
   description: 'Just playing around.',
 
